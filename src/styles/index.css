@@ -9,3 +9,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.luz {
+    -webkit-box-shadow: 1px 1px 45px 0px rgba(254, 255, 229, 1);
+-moz-box-shadow: 1px 1px 45px 0px rgba(254, 255, 229, 1);
+box-shadow: 1px 1px 45px 0px rgba(254, 255, 229, 1);
+}
